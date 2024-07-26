@@ -2,7 +2,7 @@
 
 - **Programming**: Python
 - **Quantum Computing**
-- **, Bioinformatics & Biostatistics, Data Science, Data Analytics**
+- **Bioinformatics & Biostatistics, Data Science, Data Analytics**
 
 # 📝 Projects
 
