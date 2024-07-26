@@ -1,6 +1,3 @@
-# 🧑‍💻 My Story
-
-
 # 🛠️ Skills
 
 - **Programming**: Python, C++, JavaScript
