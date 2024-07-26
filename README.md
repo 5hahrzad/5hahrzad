@@ -1,8 +1,8 @@
 # 🛠️ Skills
 
-- **Programming**: Python, C++, JavaScript
+- **Programming**: Python
 - **Quantum Computing**
-- **Data Science & Data Analytics**
+- **, Bioinformatics & Biostatistics, Data Science, Data Analytics**
 
 # 📝 Projects
 
