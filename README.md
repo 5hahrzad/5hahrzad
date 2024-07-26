@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🧑‍💻 My Story
 
-<!--
-**5hahrzad/5hahrzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming**: Python, C++, JavaScript
+- **Quantum Computing**
+- **Data Science & Data Analytics**
+
+# 📝 Projects
+
+- **Development of Novel Quantum Algorithms**
+
+# ✔️ Certifications
+
+- QWorld Quantum Computing & ProgrammingQuantum Computing & Programming 2024
+- Qiskit Global Summer School 2023
+
+
